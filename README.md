@@ -1,3 +1,6 @@
+# If you are looking for LanguageUtils that works with version 1.19.4+, please try [LanguageUtilsPlus](https://github.com/ColorsWind/LanguageUtilsPlus), which is 100% API compatible.
+
+
 Language Utils
 ==============
 
